@@ -2,7 +2,6 @@
 ### Hello everyone 👋,
 
 I am currently a software developer in the development phase and I am working on getting involved with Java and the teckstack that forms around it. I am looking forward to every new thing I learn and hope to become a good developer in the future. 
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-yellow.svg)](https://buymeacoffee.com/xdavideusx)
 
 
 <h3 align="left">Languages and Tools:</h3>
