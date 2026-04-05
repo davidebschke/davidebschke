@@ -29,6 +29,7 @@ Meine Philosophie: *"Code ist Poesie – nur dass die Laufzeit wichtiger ist als
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🚀 Tools & Plattformen
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
