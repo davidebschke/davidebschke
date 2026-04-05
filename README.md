@@ -1,24 +1,109 @@
 
-### Hello everyone 👋,
+# 👋 Hallo, ich bin David Ebschke!
 
-I am currently a software developer in my training period and am focusing on Java and the associated technology stack. I look forward to everything I learn and am confident that I will become a skilled developer in the future.
+> *Ein Developer, der nicht nur Code schreibt, sondern ihn auch versteht* 🧠💻
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🚀 Über mich
 
+Ich bin ein leidenschaftlicher **Full-Stack Developer** mit einer ungebremsten Neugier für alles, was mit Technologie zu tun hat. Mit einer Affinität zum Nerdy-Sein und einem Hang zum Sarkasmus bringe ich nicht nur innovative Lösungen mit, sondern auch eine gute Portion Humor in jedes Projekt.
 
-<!--
-**davidebschke/davidebschke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meine Philosophie: *"Code ist Poesie – nur dass die Laufzeit wichtiger ist als der Rhythmus!"* 📝
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💾 Tech-Stack
+
+### 🎯 Sprachen
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🛠️ Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+### 🔧 Backend & Datenbanken
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 🚀 Tools & Plattformen
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+--- 
+> Teckstack ist noch im Bau
+
+## 🎓 Lernbereitschaft
+
+Ich denke das kontinuierliches Lernen das Ziel eines jeden Entwicklers sein sollte – denn in der Tech-Welt gilt:
+
+> Denn wer in der Softwareentwicklung aufhört zu lernen und sich auf seinem gelernten ausruht ist heute genauso Sinnvoll wie ask.com 
+
+Aktuell vertiefte ich mich in:
+-  **Cloud-Technologien** (AWS)**
+-  **CI/CD ( Automatisches Linting, testing, building und Deployen)**
+- **Containisierung ( Docker und Kubernetes)**
+-  **AI & Machine Learning** 
+-  **Web Security & Best Practices**
+-  **Mobile Development** (React Native, Flutter)
+
+---
+
+## 💡 Meine Arbeitsweise
+
+- **Problem-Solver**: Ich schaue nicht nur auf Probleme, ich schaue auf Lösungen. Dabei ist mir wichtig das die Lösung nicht nur das Problem aus der Welt schafft sondern langfristig ein Mehrwert erzielt 
+- **Clean Code Enthusiast**: Code ist nicht nur das wilde geschnipsel des Entwicklers sondern ein Weg der durch das Programm geht der nur mit einer sauberen Lösung ohne Suchtrupp erkennbar bleibt
+- **Kolaborativ**: Im einen guten Team gehe ich als Entwickler auf, da es nicht nur mehr Spaß macht zu entwickeln sondern man auch durch andere Ansätze lernt und sich dadurch selbst weiter entwickelt
+- **Detailorientiert**: Der Teufel steckt im Detail – und die Bugs auch!
+
+---
+
+## 🎮 Außerhalb von Code
+
+- 🎮 Gaming-Enthusiast (ja, auch Developer spielen!)
+- 🎬 Fan von Film- und Serien-Marathons
+- 📚 Ständig auf der Suche nach neuen Aktivitäten
+- ☕ Powered by Koffein
+
+---
+
+## 📊 GitHub-Statistiken
+
+[![davidebschke's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidebschke&show_icons=true&theme=dark)](https://github.com/davidebschke)
+
+---
+
+## 🤝 Lass uns zusammenarbeiten!
+
+Ich bin immer offen für:
+- 🔗 **Kollaborationen** an spannenden Projekten
+- 💬 **Diskussionen** über Tech, Code und Philosophie
+- 🎯 **Feedback** zu meinen Projekten
+- ☕ **Virtuelle Kaffee-Dates** mit anderen Developern
+
+---
+
+## 📬 Kontakt
+
+- 📧 **Email**: [Sende mir eine E-mail)](mailto:davidebschke@protonmail.com)
+- 🔗 **LinkedIn**: [Mein LinkedIn Profil]([https://linkedin.com/in/davidebschke](https://www.linkedin.com/in/david-ebschke/))
+
+---
+
+## 🎯 Fun Fact
+
+*""Strukturiert. Effizient. Lesbar. Ich verwandle komplexe Anforderungen in klare Java-Strukturen – damit der Fokus auf der Lösung bleibt, nicht auf der Fehlersuche.""* 🧠✨
+
+---
+
+<div align="center">
+  
+  **Made with ❤️ and ☕ by davidebschke**
+  
+  *"404 Error: Motivation not found... Moment, gerade gefunden!"*
+  
+</div>
