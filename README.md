@@ -90,13 +90,6 @@ Aktuell vertiefte ich mich in:
 - 📚 Ständig auf der Suche nach neuen Aktivitäten
 - ☕ Powered by Koffein
 
----
-
-## 📊 GitHub-Statistiken
-
-[![davidebschke's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidebschke&show_icons=true&theme=dark)](https://github.com/davidebschke)
-
----
 
 ## 🤝 Lass uns zusammenarbeiten!
 
@@ -110,8 +103,8 @@ Ich bin immer offen für:
 
 ## 📬 Kontakt
 
-- 📧 **Email**: [Sende mir eine E-mail)](mailto:davidebschke@protonmail.com)
-- 🔗 **LinkedIn**: [Mein LinkedIn Profil]([https://linkedin.com/in/davidebschke](https://www.linkedin.com/in/david-ebschke/))
+- ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white): [Sende mir eine E-mail)](mailto:davidebschke@protonmail.com)
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white): [Mein LinkedIn Profil](https://www.linkedin.com/in/david-ebschke/)
 
 ---
 
