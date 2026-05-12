@@ -1,8 +1,8 @@
 
 # 👋 Hallo, ich bin David Ebschke!
 
-> *Ein Developer, der nicht nur Code schreibt, sondern ihn auch versteht* 🧠💻
-
+> *Ein Developer, der nicht nur Code schreibt, sondern ihn auch versteht* 🧠💻 <br>
+> Bald folgt ein AI-Overhaul der Readme Seite
 ---
 
 ## 🚀 Über mich
