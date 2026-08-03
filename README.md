@@ -7,7 +7,7 @@
 
 ## 🚀 Über mich
 
-Ich bin ein leidenschaftlicher **Full-Stack Developer** mit einer ungebremsten Neugier für alles, was mit Technologie zu tun hat. Mit einer Affinität zum Nerdy-Sein und einem Hang zum Sarkasmus bringe ich nicht nur innovative Lösungen mit, sondern auch eine gute Portion Humor in jedes Projekt.
+Ich bin ein leidenschaftlicher **Full-Stack Developer** ( bald mit KI Fokus) mit einer ungebremsten Neugier für alles, was mit Technologie zu tun hat. Mit einer Affinität zum Nerdy-Sein und einem Hang zum Sarkasmus bringe ich nicht nur innovative Lösungen mit, sondern auch eine gute Portion Humor in jedes Projekt.
 
 Meine Philosophie: *"Code ist Poesie – nur dass die Laufzeit wichtiger ist als der Rhythmus!"* 📝
 
